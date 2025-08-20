@@ -1,5 +1,5 @@
 # Price-Predictions-using-Deep-Learning-RNN-LSTM-
-Price Predictions using Deep Learning (RNN-LSTM),
+Price Predictions using Deep Learning (RNN-LSTM),USed Yahoo Finance dataset 
 
 Recurrent Neural Networks (RNN) and Long Short-Term Memory (LSTM) models are widely adopted deep learning architectures for price prediction tasks,
 especially in financial markets such as stock prices or asset values. These models are specifically designed to handle time series data owing to
